@@ -5,4 +5,5 @@ package com.cipsa.appparquimetro.entities;
  */
 
 public class Usuario {
+
 }
